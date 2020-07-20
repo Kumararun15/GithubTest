@@ -5,4 +5,5 @@ Xbox
 Android
 Mac
 iPhone
+WMR
 Linux
